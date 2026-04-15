@@ -12,3 +12,8 @@ São Paulo es una metrópoli vibrante con una oferta cultural y gastronómica in
 
 ## FOTO
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Pt-KRW5JNGPLu35Eq0A-5OHtTxjOF86JAg&s)
+
+---
+
+# INFORMACION SOBRE SAO PAULO
+São Paulo es la ciudad más grande de Brasil y Sudamérica, con más de 11.4 millones de habitantes. Es un vibrante centro económico y financiero reconocido mundialmente, famoso por su inmensa diversidad cultural, gastronomía de clase mundial, rascacielos y una intensa vida cultural que incluye el Parque Ibirapuera y la Avenida Paulista.
