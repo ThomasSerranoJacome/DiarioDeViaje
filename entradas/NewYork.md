@@ -7,3 +7,8 @@ Nueva York es una metrópoli vibrante, densa y diversa, conocida como "la ciudad
 
 # RECOMENDACIONES SOBRE QUE HACER
 Nueva York ofrece experiencias icónicas como visitar Times Square, el Empire State, la Estatua de la Libertad, y pasear por Central Park. Se recomienda cruzar el Puente de Brooklyn, subir a observatorios como el Summit One Vanderbilt, recorrer el High Line, y disfrutar de un espectáculo en Broadway. 
+
+---
+
+## FOTO
+![](https://static.anuevayork.com/wp-content/uploads/2016/10/31155642/Top-20-cosas-que-hacer-en-Nueva-York.jpg)
