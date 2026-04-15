@@ -9,3 +9,8 @@ Rusia, oficialmente la Federación Rusa, es el país más extenso del mundo, ocu
 
 # RECOMENDACIONES SOBRE QUE HACER
 Rusia ofrece una mezcla fascinante de historia imperial, arquitectura monumental y naturaleza vasta. Imprescindible visitar la Plaza Roja y el Kremlin en Moscú, admirar el Museo Hermitage en San Petersburgo, navegar por los canales, explorar el metro de Moscú y, si es posible, recorrer el Lago Baikal o viajar en el Transiberiano.
+
+---
+
+## FOTO
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHQsqTaFXVTOCqN3DqOa9BDPDH-V2tY_3QQ&s)
