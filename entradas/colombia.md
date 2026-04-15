@@ -15,3 +15,5 @@ Colombia ofrece una diversidad increíble: explora la ciudad amurallada de Carta
 
 ---
 
+# INFORMACION SOBRE COLOMBIA
+Colombia es el país más biodiverso por kilómetro cuadrado, destacando por su riqueza natural, cultural y geográfica. Con costas en dos océanos y una geografía andina, ofrece productos emblemáticos como café de alta calidad, esmeraldas, y artesanías como mochilas Wayúu y sombreros vueltiaos.
