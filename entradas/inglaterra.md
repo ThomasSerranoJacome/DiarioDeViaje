@@ -12,3 +12,8 @@ Inglaterra ofrece una mezcla fascinante de historia, cultura y paisajes. Impresc
 
 ## FOTO
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsRHLVBgWSqcaStYc0FIECUf47e5k4nhBwzg&s)
+
+---
+
+# INFORMACION SOBRE INGLATERRA
+Inglaterra es la nación más grande y poblada del Reino Unido (de la población), ubicada en la isla de Gran Bretaña, con Londres como su capital. Es una monarquía constitucional con una rica historia, famosa por su arquitectura, té, cultura de pub y paisajes variados, desde costas hasta colinas.
