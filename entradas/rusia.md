@@ -14,3 +14,8 @@ Rusia ofrece una mezcla fascinante de historia imperial, arquitectura monumental
 
 ## FOTO
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHQsqTaFXVTOCqN3DqOa9BDPDH-V2tY_3QQ&s)
+
+---
+
+# INFORMACION SOBRE RUSIA
+Rusia es el país más grande del mundo, con >17 millones de km², abarcando Europa del Este y Asia del Norte con 11 husos horarios y >146 millones de habitantes. Su capital es Moscú, destacando por su riqueza en recursos energéticos (gas y petróleo), historia imperial, y una cultura influyente en literatura y ballet.
