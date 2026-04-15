@@ -12,3 +12,8 @@ Nueva York ofrece experiencias icónicas como visitar Times Square, el Empire St
 
 ## FOTO
 ![](https://static.anuevayork.com/wp-content/uploads/2016/10/31155642/Top-20-cosas-que-hacer-en-Nueva-York.jpg)
+
+---
+
+# INFORMACION SOBRE NEW YORK
+Nueva York es una metrópoli global vibrante, compuesta por cinco distritos (Manhattan, Brooklyn, Queens, el Bronx y Staten Island) con más de 24 millones de habitantes en su área urbana. Es un centro mundial de finanzas, cultura y arte, destacado por sus icónicos rascacielos, Central Park, Times Square y la Estatua de la Libertad. 
