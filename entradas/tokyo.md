@@ -15,3 +15,6 @@ Tokio ofrece una mezcla fascinante de tradición y modernidad. Visita el histór
 ![](https://japonismo.com/wp-content/uploads/2021/06/guia-turistica-tokio-japonismo.jpg)
 
 ---
+
+# INFORMACION SOBRE TOKYO
+Tokio es la metrópoli más poblada del mundo (casi 40 millones en su área metropolitana) y el centro político, económico y cultural de Japón. Combina rascacielos futuristas y tecnología con templos antiguos, siendo famosa por su seguridad, orden, transporte eficiente (metro/JR), gastronomía con estrellas Michelin y barrios temáticos como Shibuya (cruce) y Akihabara (electrónica/anime).
