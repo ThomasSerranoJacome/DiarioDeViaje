@@ -9,3 +9,8 @@ Ciudad del amor, conocida por su icónica Torre Eiffel.
 París ofrece experiencias icónicas como visitar la Torre Eiffel (especialmente de noche), explorar el Museo del Louvre para ver la Mona Lisa y pasear por el bohemio barrio de Montmartre. Otros imperdibles incluyen un crucero por el Sena, admirar la Sainte Chapelle y visitar la Catedral de Notre Dame.
 
 ---
+
+## Foto
+![](https://estoesfrancia.com/wp-content/uploads/2024/04/subir-torre-eiffel.jpg)
+
+---
