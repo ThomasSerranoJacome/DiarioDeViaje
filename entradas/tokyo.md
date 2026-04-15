@@ -11,3 +11,7 @@ Tokio ofrece una mezcla fascinante de tradición y modernidad. Visita el histór
 
 ---
 
+## FOTO
+![](https://japonismo.com/wp-content/uploads/2021/06/guia-turistica-tokio-japonismo.jpg)
+
+---
