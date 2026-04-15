@@ -16,3 +16,6 @@ Roma es una ciudad fascinante que combina historia antigua, arte y gastronomía.
 ![](https://www.viajandoporelmundomundial.com/wp-content/uploads/2021/09/coliseo1.jpg.webp)
 
 ---
+
+# INFORMACION SOBRE ROMA
+Roma, fundada en el 753 a.C., es la capital de Italia, conocida como la "Ciudad Eterna" y un centro histórico, cultural y religioso mundial. Alberga el Vaticano, cuenta con invaluables monumentos como el Coliseo y el Panteón, y destaca por su cocina, fuentes y una mezcla única de ruinas antiguas con vida urbana moderna. 
