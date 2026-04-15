@@ -7,3 +7,11 @@ Colombia, situada en el extremo noroccidental de Sudamérica, es un país sobera
 
 # RECOMENDACIONES SOBRE QUE HACER
 Colombia ofrece una diversidad increíble: explora la ciudad amurallada de Cartagena, el Parque Nacional Natural Tayrona, el Eje Cafetero con sus fincas y el Valle del Cocora, el Museo del Oro en Bogotá y la Comuna 13 en Medellín. Disfruta de la cultura, avistamiento de aves, buceo y gastronomía local en un viaje inolvidable. 
+
+---
+
+## FOTO
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/250px-Flag_of_Colombia.svg.png)
+
+---
+
